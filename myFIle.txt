@@ -7,3 +7,6 @@ this is added
 
 
 this is not added
+
+
+this is changed now for check git ignore
